@@ -1,4 +1,4 @@
-                                                                       # DDOS 😴
+# DDOS 😴
 DDos Tool By Hamster ☠️
 
 Support: Linux And Termux 🔥
